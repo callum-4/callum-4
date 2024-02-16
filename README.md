@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+profficient in Java, C++, Python, PHP, SQL, HTML, CSS
 <!--
 **callum-4/callum-4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
